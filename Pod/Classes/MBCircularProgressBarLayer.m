@@ -12,7 +12,7 @@
 #import "MBCircularProgressBarLayer.h"
 
 @implementation MBCircularProgressBarLayer
-@dynamic value;
+//@dynamic value;
 @dynamic maxValue;
 @dynamic borderPadding;
 @dynamic valueFontSize;
